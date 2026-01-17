@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on:
-     - Machine Learning for Arctic Ice Prediction 
+     - Explainability-aware evolutionary feature selection for Arctic sea ice thickness prediction.
   
 
 
